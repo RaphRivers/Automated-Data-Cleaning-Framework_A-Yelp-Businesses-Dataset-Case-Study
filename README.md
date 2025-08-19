@@ -47,7 +47,7 @@ The aim of this project is to develop an **adaptable and automated data cleaning
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/automated-data-cleaning.git
+   git clone https://github.com/RaphRivers/automated-data-cleaning.git
    cd automated-data-cleaning
 
 ## Install dependencies:
