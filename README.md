@@ -9,12 +9,8 @@ This project focuses on building an **automated and adaptable data cleaning fram
 
 Unlike one-off cleaning scripts, this project emphasizes **scalability and adaptability**—allowing the same framework to be applied across new datasets with minimal adjustments. The result is a **robust, analysis-ready dataset** that can directly feed into **machine learning pipelines or advanced analytics**, making it highly valuable for business and research use cases.  
 
----
-
 ## 🎯 Aim  
 The aim of this project is to develop an **adaptable and automated data cleaning framework** that ensures **high data quality and consistency** for large datasets, using the **Yelp dataset** as a case study.
-
----
 
 ## 📌 Objectives  
 1. **Data Exploration**  
@@ -32,14 +28,10 @@ The aim of this project is to develop an **adaptable and automated data cleaning
 4. **Validation**  
    - Verify that the cleaned dataset meets quality standards and is suitable for **analytics or machine learning tasks**.  
 
----
-
 ## 🛠️ Tech Stack  
 - **Python** (pandas, numpy)  
 - **Jupyter Notebook** (EDA & testing)  
 - **Automated Scripts** (for pipeline execution)  
-
----
 
 ## 📂 Project Structure  
 ├── data/               # Raw and cleaned datasets  
@@ -51,8 +43,6 @@ The aim of this project is to develop an **adaptable and automated data cleaning
 ├── tests/              # Unit tests for framework adaptability  
 ├── README.md           # Project documentation  
 └── requirements.txt    # Dependencies  
-
----
 
 ## 🚀 How to Run  
 1. Clone the repository:  
