@@ -1,6 +1,6 @@
 # Automated Data Cleaning Framework (Yelp Dataset Case Study)
 ## Data Sources
-- **Primary Dataset**: [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/) 
+- **Primary Dataset**: <a href="https://business.yelp.com/data/resources/open-dataset/" target="_blank"> Yelp Open Dataset </a>
 
 ## 📖 Project Description  
 This project focuses on building an **automated and adaptable data cleaning framework** designed to handle the challenges of **real-world, large-scale datasets**. Using the **Yelp dataset** as a case study, the framework provides reproducible methods for:  
